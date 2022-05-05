@@ -14,4 +14,5 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: She/Her/Elle
 - ⚡ Fun fact: I lived in the arctic for almost 5 years
 
-![Kalenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalennaCodes&theme=cobalt&show_icons=true)
+
+[![Kalenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalennaCodes)](https://github.com/KalennaCodes/github-readme-stats)
