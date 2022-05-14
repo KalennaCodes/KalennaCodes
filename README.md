@@ -1,3 +1,5 @@
+<img src="![Screen Shot 2022-05-11 at 6 45 58 PM](https://user-images.githubusercontent.com/92550567/168407863-4739e2e4-0bbf-402a-9920-22c6157bd547.png)
+>
 <h1 align="center">Hi 👋, I'm Kalenna</h1>
 <h3 align="center">A passionate full-stack developer from Ottawa, Canada</h3>
 
