@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [https://kalenna-codes.netlify.app/](Portfolio)
+- 👨‍💻 All of my projects are available at [https://kalenna-codes.netlify.app/](https://kalenna-codes.netlify.app/)
 
 - 💬 Ask me about **JavaScript and investing**
 
