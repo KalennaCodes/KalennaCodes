@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kalenna</h1>
-<h3 align="center">A passionate full-stack developer from Ottawa, Canada</h3>
+<h3 align="center">A passionate full-stack developer from Ontario, Canada</h3>
 
 <p align="left"> <a href="https://twitter.com/lenna_in_tech" target="blank"><img src="https://img.shields.io/twitter/follow/lenna_in_tech?logo=twitter&style=for-the-badge" alt="lenna_in_tech" /></a> </p>
 
