@@ -1,5 +1,4 @@
-![Screen Shot 2022-05-11 at 6 45 58 PM](https://user-images.githubusercontent.com/92550567/168408076-1e3c453c-0755-41ae-ac53-72358172f682.png)
-
+![Black and Purple Modern Neon Game Mode Twitter Header ](https://user-images.githubusercontent.com/92550567/170771700-c55d4759-5481-479a-9d7a-935e85786ec0.png)
 
 <h1 align="center">Hi 👋, I'm Kalenna</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
