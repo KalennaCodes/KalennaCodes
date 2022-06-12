@@ -1,7 +1,7 @@
 ![Black and Purple Modern Neon Game Mode Twitter Header ](https://user-images.githubusercontent.com/92550567/170771700-c55d4759-5481-479a-9d7a-935e85786ec0.png)
 
 <h1 align="center">Hi 👋, I'm Kalenna</h1>
-<h3 align="center">A passionate full-stack developer from Canada</h3>
+<h3 align="center">A passionate full-stack developer from Ontario, Canada</h3>
 
 <p align="left"> <a href="https://twitter.com/lenna_in_tech" target="blank"><img src="https://img.shields.io/twitter/follow/lenna_in_tech?logo=twitter&style=for-the-badge" alt="lenna_in_tech" /></a> </p>
 
